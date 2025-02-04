@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("G6Assignment2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+90ced97a5bf3b9cd7ffd245be8d4a5fa17818628")]
 [assembly: System.Reflection.AssemblyProductAttribute("G6Assignment2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("G6Assignment2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
