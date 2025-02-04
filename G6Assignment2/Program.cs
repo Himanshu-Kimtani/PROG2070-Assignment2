@@ -1,4 +1,12 @@
-﻿using System;
+﻿/*
+Assignment 2 - Unit Testing & Git
+Group - 6
+Created By - Himanshu Kimtani | Brandon Montoya | Sahilpreet Singh
+Date - 2025/02/24
+*/
+
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;

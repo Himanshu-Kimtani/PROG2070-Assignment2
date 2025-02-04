@@ -1,0 +1,15 @@
+C:\Sem4\QA\Assignment 2\G6Assignment2\bin\Debug\net8.0\G6Assignment2.exe
+C:\Sem4\QA\Assignment 2\G6Assignment2\bin\Debug\net8.0\G6Assignment2.deps.json
+C:\Sem4\QA\Assignment 2\G6Assignment2\bin\Debug\net8.0\G6Assignment2.runtimeconfig.json
+C:\Sem4\QA\Assignment 2\G6Assignment2\bin\Debug\net8.0\G6Assignment2.dll
+C:\Sem4\QA\Assignment 2\G6Assignment2\bin\Debug\net8.0\G6Assignment2.pdb
+C:\Sem4\QA\Assignment 2\G6Assignment2\obj\Debug\net8.0\G6Assignment2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sem4\QA\Assignment 2\G6Assignment2\obj\Debug\net8.0\G6Assignment2.AssemblyInfoInputs.cache
+C:\Sem4\QA\Assignment 2\G6Assignment2\obj\Debug\net8.0\G6Assignment2.AssemblyInfo.cs
+C:\Sem4\QA\Assignment 2\G6Assignment2\obj\Debug\net8.0\G6Assignment2.csproj.CoreCompileInputs.cache
+C:\Sem4\QA\Assignment 2\G6Assignment2\obj\Debug\net8.0\G6Assignment2.sourcelink.json
+C:\Sem4\QA\Assignment 2\G6Assignment2\obj\Debug\net8.0\G6Assignment2.dll
+C:\Sem4\QA\Assignment 2\G6Assignment2\obj\Debug\net8.0\refint\G6Assignment2.dll
+C:\Sem4\QA\Assignment 2\G6Assignment2\obj\Debug\net8.0\G6Assignment2.pdb
+C:\Sem4\QA\Assignment 2\G6Assignment2\obj\Debug\net8.0\G6Assignment2.genruntimeconfig.cache
+C:\Sem4\QA\Assignment 2\G6Assignment2\obj\Debug\net8.0\ref\G6Assignment2.dll
